@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Limpar arquivos temporários"
+rootProject.name = "ClearCache"
 include(":app")
  
