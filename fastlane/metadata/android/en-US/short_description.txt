@@ -1,0 +1,1 @@
+I developed this app for cleaning cache of apps on Android 8.0+ devices.
